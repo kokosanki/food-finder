@@ -4,7 +4,11 @@
 ```
 npm install
 ```
-
+### Add API Key
+```
+Inside .env add:
+VUE_APP_API_KEY="Your zomato API key"
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
